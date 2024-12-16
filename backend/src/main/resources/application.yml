@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: todo-spring
+    datasource:
+        url: jdbc:postgresql://localhost:5432/test   # 接続先URL
+        username: postgres    # ユーザー名
+        password: postgres    # パスワード
